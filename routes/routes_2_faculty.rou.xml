@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-11-16T14:16:25.781793+08:00 by Eclipse SUMO netedit 1.28.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- VTypes -->
+    <vType id="faculty" vClass="passenger" color="0,102,255"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <trip id="fac_0" type="faculty" depart="15.20" from="583962451#0.114" to="205611785">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_1" type="faculty" depart="88.00" from="1237202658" to="-935386041#0">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_2" type="faculty" depart="191.10" from="360817894#1.24" to="205611785">
+        <stop parkingArea="pa_10" duration="100000.00"/>
+    </trip>
+    <trip id="fac_3" type="faculty" depart="245.70" from="1237202658" to="205611785">
+        <stop parkingArea="pa_8" duration="100000.00"/>
+    </trip>
+    <trip id="fac_4" type="faculty" depart="449.80" from="1237202658" to="205611785">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_5" type="faculty" depart="478.50" from="1237202658" to="205611785">
+        <stop parkingArea="pa_10" duration="100000.00"/>
+    </trip>
+    <trip id="fac_6" type="faculty" depart="502.40" from="1237202658" to="-935386041#0">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_7" type="faculty" depart="545.90" from="583962451#0.114" to="313786478#1">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_8" type="faculty" depart="614.60" from="1237202658" to="205611785">
+        <stop parkingArea="pa_8" duration="100000.00"/>
+    </trip>
+    <trip id="fac_9" type="faculty" depart="631.40" from="360817894#1.24" to="-935386041#0">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_10" type="faculty" depart="659.90" from="360817894#1.24" to="313786478#1">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_11" type="faculty" depart="719.80" from="1237202658" to="205611785">
+        <stop parkingArea="pa_10" duration="100000.00"/>
+    </trip>
+    <trip id="fac_12" type="faculty" depart="732.00" from="1237202658" to="205611785">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_13" type="faculty" depart="818.40" from="1237202658" to="-935386041#0">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_14" type="faculty" depart="821.80" from="360817894#1.24" to="-935386041#0">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_15" type="faculty" depart="863.60" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_16" type="faculty" depart="880.00" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_17" type="faculty" depart="896.50" from="1237202658" to="-935386041#0">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_18" type="faculty" depart="913.20" from="360817894#1.24" to="313786478#1">
+        <stop parkingArea="pa_8" duration="100000.00"/>
+    </trip>
+    <trip id="fac_19" type="faculty" depart="927.70" from="360817894#1.24" to="-935386041#0">
+        <stop parkingArea="pa_10" duration="100000.00"/>
+    </trip>
+    <trip id="fac_20" type="faculty" depart="1003.60" from="360817894#1.24" to="313786478#1">
+        <stop parkingArea="pa_8" duration="100000.00"/>
+    </trip>
+    <trip id="fac_21" type="faculty" depart="1011.90" from="583962451#0.114" to="205611785">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_22" type="faculty" depart="1033.90" from="360817894#1.24" to="313786478#1">
+        <stop parkingArea="pa_10" duration="100000.00"/>
+    </trip>
+    <trip id="fac_23" type="faculty" depart="1065.10" from="583962451#0.114" to="205611785">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_24" type="faculty" depart="1108.50" from="1237202658" to="205611785">
+        <stop parkingArea="pa_8" duration="100000.00"/>
+    </trip>
+    <trip id="fac_25" type="faculty" depart="1109.40" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_10" duration="100000.00"/>
+    </trip>
+    <trip id="fac_26" type="faculty" depart="1178.80" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_27" type="faculty" depart="1186.00" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_28" type="faculty" depart="1191.00" from="1237202658" to="-935386041#0">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_29" type="faculty" depart="1228.50" from="583962451#0.114" to="-935386041#0">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_30" type="faculty" depart="1231.60" from="1237202658" to="-935386041#0">
+        <stop parkingArea="pa_8" duration="100000.00"/>
+    </trip>
+    <trip id="fac_31" type="faculty" depart="1306.60" from="583962451#0.114" to="-935386041#0">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_32" type="faculty" depart="1315.70" from="1237202658" to="205611785">
+        <stop parkingArea="pa_8" duration="100000.00"/>
+    </trip>
+    <trip id="fac_33" type="faculty" depart="1329.50" from="1237202658" to="205611785">
+        <stop parkingArea="pa_8" duration="100000.00"/>
+    </trip>
+    <trip id="fac_34" type="faculty" depart="1357.90" from="1237202658" to="-935386041#0">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_35" type="faculty" depart="1391.40" from="1237202658" to="-935386041#0">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_36" type="faculty" depart="1411.70" from="583962451#0.114" to="205611785">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_37" type="faculty" depart="1433.20" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_10" duration="100000.00"/>
+    </trip>
+    <trip id="fac_38" type="faculty" depart="1438.70" from="1237202658" to="205611785">
+        <stop parkingArea="pa_8" duration="100000.00"/>
+    </trip>
+    <trip id="fac_39" type="faculty" depart="1466.40" from="1237202658" to="-935386041#0">
+        <stop parkingArea="pa_10" duration="100000.00"/>
+    </trip>
+    <trip id="fac_40" type="faculty" depart="1467.10" from="360817894#1.24" to="-935386041#0">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_41" type="faculty" depart="1495.90" from="360817894#1.24" to="313786478#1">
+        <stop parkingArea="pa_10" duration="100000.00"/>
+    </trip>
+    <trip id="fac_42" type="faculty" depart="1503.00" from="360817894#1.24" to="313786478#1">
+        <stop parkingArea="pa_8" duration="100000.00"/>
+    </trip>
+    <trip id="fac_43" type="faculty" depart="1578.10" from="1237202658" to="205611785">
+        <stop parkingArea="pa_10" duration="100000.00"/>
+    </trip>
+    <trip id="fac_44" type="faculty" depart="1587.70" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_8" duration="100000.00"/>
+    </trip>
+    <trip id="fac_45" type="faculty" depart="1625.70" from="1237202658" to="205611785">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_46" type="faculty" depart="1648.50" from="1237202658" to="205611785">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_47" type="faculty" depart="1693.10" from="1237202658" to="205611785">
+        <stop parkingArea="pa_10" duration="100000.00"/>
+    </trip>
+    <trip id="fac_48" type="faculty" depart="1718.90" from="1237202658" to="205611785">
+        <stop parkingArea="pa_7" duration="100000.00"/>
+    </trip>
+    <trip id="fac_49" type="faculty" depart="1794.70" from="1237202658" to="205611785">
+        <stop parkingArea="pa_10" duration="100000.00"/>
+    </trip>
+</routes>

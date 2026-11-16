@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-11-16T14:16:25.779227+08:00 by Eclipse SUMO netedit 1.28.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- VTypes -->
+    <vType id="school_bus" length="5.00" vClass="bus" guiShape="bus" color="yellow"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <trip id="bus_0" type="school_bus" depart="5.10" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="831.00"/>
+    </trip>
+    <trip id="bus_1" type="school_bus" depart="13.70" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="357.00"/>
+    </trip>
+    <trip id="bus_2" type="school_bus" depart="51.60" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="867.00"/>
+    </trip>
+    <trip id="bus_3" type="school_bus" depart="61.10" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="796.00"/>
+    </trip>
+    <trip id="bus_4" type="school_bus" depart="68.00" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="301.00"/>
+    </trip>
+    <trip id="bus_5" type="school_bus" depart="69.70" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="639.00"/>
+    </trip>
+    <trip id="bus_6" type="school_bus" depart="71.00" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="535.00"/>
+    </trip>
+    <trip id="bus_7" type="school_bus" depart="73.40" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="485.00"/>
+    </trip>
+    <trip id="bus_8" type="school_bus" depart="82.90" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="561.00"/>
+    </trip>
+    <trip id="bus_9" type="school_bus" depart="104.40" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="372.00"/>
+    </trip>
+    <trip id="bus_10" type="school_bus" depart="225.30" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="314.00"/>
+    </trip>
+    <trip id="bus_11" type="school_bus" depart="290.10" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="575.00"/>
+    </trip>
+    <trip id="bus_12" type="school_bus" depart="322.50" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="652.00"/>
+    </trip>
+    <trip id="bus_13" type="school_bus" depart="408.80" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="561.00"/>
+    </trip>
+    <trip id="bus_14" type="school_bus" depart="415.20" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="579.00"/>
+    </trip>
+    <trip id="bus_15" type="school_bus" depart="446.20" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="629.00"/>
+    </trip>
+    <trip id="bus_16" type="school_bus" depart="519.80" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="619.00"/>
+    </trip>
+    <trip id="bus_17" type="school_bus" depart="525.10" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="492.00"/>
+    </trip>
+    <trip id="bus_18" type="school_bus" depart="532.10" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="822.00"/>
+    </trip>
+    <trip id="bus_19" type="school_bus" depart="549.00" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="742.00"/>
+    </trip>
+    <trip id="bus_20" type="school_bus" depart="554.10" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="318.00"/>
+    </trip>
+    <trip id="bus_21" type="school_bus" depart="557.20" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="464.00"/>
+    </trip>
+    <trip id="bus_22" type="school_bus" depart="559.40" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="736.00"/>
+    </trip>
+    <trip id="bus_23" type="school_bus" depart="582.60" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="828.00"/>
+    </trip>
+    <trip id="bus_24" type="school_bus" depart="612.20" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="331.00"/>
+    </trip>
+    <trip id="bus_25" type="school_bus" depart="646.30" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="628.00"/>
+    </trip>
+    <trip id="bus_26" type="school_bus" depart="695.50" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="605.00"/>
+    </trip>
+    <trip id="bus_27" type="school_bus" depart="728.10" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="348.00"/>
+    </trip>
+    <trip id="bus_28" type="school_bus" depart="798.50" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="617.00"/>
+    </trip>
+    <trip id="bus_29" type="school_bus" depart="899.30" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="462.00"/>
+    </trip>
+    <trip id="bus_30" type="school_bus" depart="914.90" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="308.00"/>
+    </trip>
+    <trip id="bus_31" type="school_bus" depart="943.80" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="522.00"/>
+    </trip>
+    <trip id="bus_32" type="school_bus" depart="944.60" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="475.00"/>
+    </trip>
+    <trip id="bus_33" type="school_bus" depart="994.40" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="821.00"/>
+    </trip>
+    <trip id="bus_34" type="school_bus" depart="1013.10" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="401.00"/>
+    </trip>
+    <trip id="bus_35" type="school_bus" depart="1013.10" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="743.00"/>
+    </trip>
+    <trip id="bus_36" type="school_bus" depart="1038.60" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="699.00"/>
+    </trip>
+    <trip id="bus_37" type="school_bus" depart="1050.90" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="633.00"/>
+    </trip>
+    <trip id="bus_38" type="school_bus" depart="1053.50" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="588.00"/>
+    </trip>
+    <trip id="bus_39" type="school_bus" depart="1068.90" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="635.00"/>
+    </trip>
+    <trip id="bus_40" type="school_bus" depart="1078.80" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="438.00"/>
+    </trip>
+    <trip id="bus_41" type="school_bus" depart="1101.90" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="398.00"/>
+    </trip>
+    <trip id="bus_42" type="school_bus" depart="1103.00" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="652.00"/>
+    </trip>
+    <trip id="bus_43" type="school_bus" depart="1175.30" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="847.00"/>
+    </trip>
+    <trip id="bus_44" type="school_bus" depart="1189.00" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="540.00"/>
+    </trip>
+    <trip id="bus_45" type="school_bus" depart="1189.90" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="436.00"/>
+    </trip>
+    <trip id="bus_46" type="school_bus" depart="1205.40" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="518.00"/>
+    </trip>
+    <trip id="bus_47" type="school_bus" depart="1212.70" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="818.00"/>
+    </trip>
+    <trip id="bus_48" type="school_bus" depart="1220.20" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="648.00"/>
+    </trip>
+    <trip id="bus_49" type="school_bus" depart="1233.10" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="800.00"/>
+    </trip>
+    <trip id="bus_50" type="school_bus" depart="1250.30" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="406.00"/>
+    </trip>
+    <trip id="bus_51" type="school_bus" depart="1295.10" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="689.00"/>
+    </trip>
+    <trip id="bus_52" type="school_bus" depart="1299.40" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="428.00"/>
+    </trip>
+    <trip id="bus_53" type="school_bus" depart="1315.20" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="687.00"/>
+    </trip>
+    <trip id="bus_54" type="school_bus" depart="1317.10" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="879.00"/>
+    </trip>
+    <trip id="bus_55" type="school_bus" depart="1335.50" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="602.00"/>
+    </trip>
+    <trip id="bus_56" type="school_bus" depart="1386.70" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="768.00"/>
+    </trip>
+    <trip id="bus_57" type="school_bus" depart="1410.20" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="346.00"/>
+    </trip>
+    <trip id="bus_58" type="school_bus" depart="1413.60" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="314.00"/>
+    </trip>
+    <trip id="bus_59" type="school_bus" depart="1423.60" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="340.00"/>
+    </trip>
+    <trip id="bus_60" type="school_bus" depart="1541.50" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="900.00"/>
+    </trip>
+    <trip id="bus_61" type="school_bus" depart="1563.80" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="471.00"/>
+    </trip>
+    <trip id="bus_62" type="school_bus" depart="1608.70" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="405.00"/>
+    </trip>
+    <trip id="bus_63" type="school_bus" depart="1618.80" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="855.00"/>
+    </trip>
+    <trip id="bus_64" type="school_bus" depart="1687.30" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="559.00"/>
+    </trip>
+    <trip id="bus_65" type="school_bus" depart="1688.10" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="512.00"/>
+    </trip>
+    <trip id="bus_66" type="school_bus" depart="1706.90" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="310.00"/>
+    </trip>
+    <trip id="bus_67" type="school_bus" depart="1731.60" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="627.00"/>
+    </trip>
+    <trip id="bus_68" type="school_bus" depart="1731.70" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="364.00"/>
+    </trip>
+    <trip id="bus_69" type="school_bus" depart="1829.50" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="766.00"/>
+    </trip>
+    <trip id="bus_70" type="school_bus" depart="1833.10" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="855.00"/>
+    </trip>
+    <trip id="bus_71" type="school_bus" depart="1849.30" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="664.00"/>
+    </trip>
+    <trip id="bus_72" type="school_bus" depart="1868.30" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="614.00"/>
+    </trip>
+    <trip id="bus_73" type="school_bus" depart="1880.80" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="587.00"/>
+    </trip>
+    <trip id="bus_74" type="school_bus" depart="1892.90" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="392.00"/>
+    </trip>
+    <trip id="bus_75" type="school_bus" depart="1913.80" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="532.00"/>
+    </trip>
+    <trip id="bus_76" type="school_bus" depart="1969.20" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="635.00"/>
+    </trip>
+    <trip id="bus_77" type="school_bus" depart="1992.10" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="892.00"/>
+    </trip>
+    <trip id="bus_78" type="school_bus" depart="2005.80" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="642.00"/>
+    </trip>
+    <trip id="bus_79" type="school_bus" depart="2010.20" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="394.00"/>
+    </trip>
+    <trip id="bus_80" type="school_bus" depart="2030.90" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="549.00"/>
+    </trip>
+    <trip id="bus_81" type="school_bus" depart="2033.80" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="372.00"/>
+    </trip>
+    <trip id="bus_82" type="school_bus" depart="2063.90" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="310.00"/>
+    </trip>
+    <trip id="bus_83" type="school_bus" depart="2064.70" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="805.00"/>
+    </trip>
+    <trip id="bus_84" type="school_bus" depart="2117.90" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="403.00"/>
+    </trip>
+    <trip id="bus_85" type="school_bus" depart="2126.80" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="378.00"/>
+    </trip>
+    <trip id="bus_86" type="school_bus" depart="2163.40" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="483.00"/>
+    </trip>
+    <trip id="bus_87" type="school_bus" depart="2247.50" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="627.00"/>
+    </trip>
+    <trip id="bus_88" type="school_bus" depart="2254.00" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="600.00"/>
+    </trip>
+    <trip id="bus_89" type="school_bus" depart="2268.60" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="858.00"/>
+    </trip>
+    <trip id="bus_90" type="school_bus" depart="2285.90" from="1237202658" to="205611785">
+        <stop parkingArea="pa_3" duration="623.00"/>
+    </trip>
+    <trip id="bus_91" type="school_bus" depart="2297.10" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="866.00"/>
+    </trip>
+    <trip id="bus_92" type="school_bus" depart="2357.00" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_3" duration="510.00"/>
+    </trip>
+    <trip id="bus_93" type="school_bus" depart="2359.70" from="1237202658" to="205611785">
+        <stop parkingArea="pa_2" duration="461.00"/>
+    </trip>
+    <trip id="bus_94" type="school_bus" depart="2382.10" from="1237202658" to="313786478#1">
+        <stop parkingArea="pa_2" duration="553.00"/>
+    </trip>
+</routes>

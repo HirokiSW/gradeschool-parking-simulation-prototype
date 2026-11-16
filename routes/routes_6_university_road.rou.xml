@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-11-16T14:16:25.818438+08:00 by Eclipse SUMO netedit 1.28.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- VTypes -->
+    <vType id="univ_road" vClass="passenger" color="153,51,204"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <trip id="univ_0" type="univ_road" depart="1.50" from="1237202658" to="-935386041#0"/>
+    <trip id="univ_1" type="univ_road" depart="863.40" from="1237202658" to="-935386041#0"/>
+    <trip id="univ_2" type="univ_road" depart="899.90" from="1237202658" to="-935386041#0"/>
+    <trip id="univ_3" type="univ_road" depart="1231.40" from="1237202658" to="-935386041#0"/>
+    <trip id="univ_4" type="univ_road" depart="1366.20" from="1237202658" to="-935386041#0"/>
+    <trip id="univ_5" type="univ_road" depart="1551.80" from="1237202658" to="-935386041#0"/>
+    <trip id="univ_6" type="univ_road" depart="1600.60" from="1237202658" to="-935386041#0"/>
+    <trip id="univ_7" type="univ_road" depart="1776.40" from="1237202658" to="-935386041#0"/>
+    <trip id="univ_8" type="univ_road" depart="2187.30" from="1237202658" to="-935386041#0"/>
+    <trip id="univ_9" type="univ_road" depart="2408.40" from="1237202658" to="-935386041#0"/>
+    <trip id="univ_10" type="univ_road" depart="2507.10" from="1237202658" to="-935386041#0"/>
+    <trip id="univ_11" type="univ_road" depart="2541.50" from="1237202658" to="-935386041#0"/>
+    <trip id="univ_12" type="univ_road" depart="2618.00" from="1237202658" to="-935386041#0"/>
+    <trip id="univ_13" type="univ_road" depart="2646.30" from="1237202658" to="-935386041#0"/>
+    <trip id="univ_14" type="univ_road" depart="2712.40" from="1237202658" to="-935386041#0"/>
+</routes>

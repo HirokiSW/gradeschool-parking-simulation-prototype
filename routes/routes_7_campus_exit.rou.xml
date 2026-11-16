@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-11-16T14:16:25.820060+08:00 by Eclipse SUMO netedit 1.28.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- VTypes -->
+    <vType id="campus_exit" vClass="passenger" color="0,204,204"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <trip id="exit_0" type="campus_exit" depart="1286.20" from="360817894#1.24" to="205611785"/>
+    <trip id="exit_1" type="campus_exit" depart="1333.40" from="583962451#0.114" to="205611785"/>
+    <trip id="exit_2" type="campus_exit" depart="1360.70" from="360817894#1.24" to="-935386041#0"/>
+    <trip id="exit_3" type="campus_exit" depart="1366.60" from="360817894#1.24" to="-935386041#0"/>
+    <trip id="exit_4" type="campus_exit" depart="1408.60" from="360817894#1.24" to="313786478#1"/>
+    <trip id="exit_5" type="campus_exit" depart="1484.70" from="360817894#1.24" to="313786478#1"/>
+    <trip id="exit_6" type="campus_exit" depart="1547.00" from="583962451#0.114" to="313786478#1"/>
+    <trip id="exit_7" type="campus_exit" depart="1944.80" from="583962451#0.114" to="205611785"/>
+    <trip id="exit_8" type="campus_exit" depart="2041.10" from="360817894#1.24" to="205611785"/>
+    <trip id="exit_9" type="campus_exit" depart="2176.40" from="360817894#1.24" to="313786478#1"/>
+    <trip id="exit_10" type="campus_exit" depart="2197.40" from="360817894#1.24" to="205611785"/>
+    <trip id="exit_11" type="campus_exit" depart="2367.10" from="360817894#1.24" to="313786478#1"/>
+    <trip id="exit_12" type="campus_exit" depart="2432.50" from="583962451#0.114" to="313786478#1"/>
+    <trip id="exit_13" type="campus_exit" depart="2697.10" from="360817894#1.24" to="-935386041#0"/>
+    <trip id="exit_14" type="campus_exit" depart="3101.80" from="583962451#0.114" to="313786478#1"/>
+</routes>

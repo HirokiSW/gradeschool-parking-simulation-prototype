@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-11-16T15:30:13.365909+08:00 by Eclipse SUMO netedit 1.28.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Rerouter -->
+    <rerouter id="rr_0" pos="180.24,384.07" edges="-207134389">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_22"/>
+            <parkingAreaReroute id="pa_25"/>
+            <parkingAreaReroute id="pa_31"/>
+            <parkingAreaReroute id="pa_29"/>
+            <parkingAreaReroute id="pa_27"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_1" pos="203.64,310.20" edges="-207134390">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_29"/>
+            <parkingAreaReroute id="pa_31"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_10" pos="202.51,375.32" edges="207134389">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_23"/>
+            <parkingAreaReroute id="pa_39"/>
+            <parkingAreaReroute id="pa_25"/>
+            <parkingAreaReroute id="pa_31"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_11" pos="181.08,319.59" edges="207134390">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_28"/>
+            <parkingAreaReroute id="pa_31"/>
+            <parkingAreaReroute id="pa_33"/>
+            <parkingAreaReroute id="pa_32"/>
+            <parkingAreaReroute id="pa_30"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_12" pos="214.37,328.30" edges="207134392">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_27"/>
+            <parkingAreaReroute id="pa_39"/>
+            <parkingAreaReroute id="pa_31"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_13" pos="190.70,291.56" edges="207134393">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_31"/>
+            <parkingAreaReroute id="pa_28"/>
+            <parkingAreaReroute id="pa_24"/>
+            <parkingAreaReroute id="pa_26"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_14" pos="177.06,242.02" edges="207134396">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_13"/>
+            <parkingAreaReroute id="pa_14"/>
+            <parkingAreaReroute id="pa_32"/>
+            <parkingAreaReroute id="pa_12"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_15" pos="169.09,188.04" edges="28119723#0">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_6"/>
+            <parkingAreaReroute id="pa_34"/>
+            <parkingAreaReroute id="pa_35"/>
+            <parkingAreaReroute id="pa_21"/>
+            <parkingAreaReroute id="pa_15"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_16" pos="177.22,214.67" edges="46522214#0">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_12"/>
+            <parkingAreaReroute id="pa_13"/>
+            <parkingAreaReroute id="pa_14"/>
+            <parkingAreaReroute id="pa_32"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_17" pos="53.95,215.87" edges="46522214#1">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_11"/>
+            <parkingAreaReroute id="pa_21"/>
+            <parkingAreaReroute id="pa_15"/>
+            <parkingAreaReroute id="pa_18"/>
+            <parkingAreaReroute id="pa_9"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_18" pos="196.14,158.99" edges="46522216#0">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_5"/>
+            <parkingAreaReroute id="pa_12"/>
+            <parkingAreaReroute id="pa_13"/>
+            <parkingAreaReroute id="pa_16"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_19" pos="185.92,158.50" edges="46522217#0">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_37"/>
+            <parkingAreaReroute id="pa_4"/>
+            <parkingAreaReroute id="pa_12"/>
+            <parkingAreaReroute id="pa_13"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_2" pos="181.97,338.11" edges="-207134392">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_26"/>
+            <parkingAreaReroute id="pa_31"/>
+            <parkingAreaReroute id="pa_29"/>
+            <parkingAreaReroute id="pa_33"/>
+            <parkingAreaReroute id="pa_32"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_20" pos="180.23,248.04" edges="46522220#2">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_16"/>
+            <parkingAreaReroute id="pa_36"/>
+            <parkingAreaReroute id="pa_32"/>
+            <parkingAreaReroute id="pa_30"/>
+            <parkingAreaReroute id="pa_28"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_21" pos="196.70,289.29" edges="46522221#0">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_32"/>
+            <parkingAreaReroute id="pa_30"/>
+            <parkingAreaReroute id="pa_28"/>
+            <parkingAreaReroute id="pa_33"/>
+            <parkingAreaReroute id="pa_26"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_22" pos="209.19,347.25" edges="46522222">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_25"/>
+            <parkingAreaReroute id="pa_39"/>
+            <parkingAreaReroute id="pa_23"/>
+            <parkingAreaReroute id="pa_31"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_24" pos="40.26,386.65" edges="46595573#2">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_15"/>
+            <parkingAreaReroute id="pa_18"/>
+            <parkingAreaReroute id="pa_19"/>
+            <parkingAreaReroute id="pa_20"/>
+            <parkingAreaReroute id="pa_39"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_25" pos="34.87,166.82" edges="46595577#0">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_21"/>
+            <parkingAreaReroute id="pa_1"/>
+            <parkingAreaReroute id="pa_0"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_26" pos="83.62,182.49" edges="608098313">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_34"/>
+            <parkingAreaReroute id="pa_35"/>
+            <parkingAreaReroute id="pa_21"/>
+            <parkingAreaReroute id="pa_15"/>
+            <parkingAreaReroute id="pa_18"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_27" pos="209.21,54.49" edges="735040448#0">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_7"/>
+            <parkingAreaReroute id="pa_8"/>
+            <parkingAreaReroute id="pa_5"/>
+            <parkingAreaReroute id="pa_12"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_28" pos="166.82,378.49" edges="E7.13">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_39"/>
+            <parkingAreaReroute id="pa_23"/>
+            <parkingAreaReroute id="pa_25"/>
+            <parkingAreaReroute id="pa_31"/>
+            <parkingAreaReroute id="pa_29"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_29" pos="168.98,277.16" edges="E7.37">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_17"/>
+            <parkingAreaReroute id="pa_33"/>
+            <parkingAreaReroute id="pa_32"/>
+            <parkingAreaReroute id="pa_30"/>
+            <parkingAreaReroute id="pa_36"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_3" pos="180.82,301.03" edges="-207134393">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_30"/>
+            <parkingAreaReroute id="pa_33"/>
+            <parkingAreaReroute id="pa_32"/>
+            <parkingAreaReroute id="pa_36"/>
+            <parkingAreaReroute id="pa_14"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_4" pos="166.95,216.07" edges="-207134396">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_36"/>
+            <parkingAreaReroute id="pa_11"/>
+            <parkingAreaReroute id="pa_21"/>
+            <parkingAreaReroute id="pa_15"/>
+            <parkingAreaReroute id="pa_9"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_5" pos="168.75,254.65" edges="-360817897">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_33"/>
+            <parkingAreaReroute id="pa_36"/>
+            <parkingAreaReroute id="pa_14"/>
+            <parkingAreaReroute id="pa_12"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_6" pos="157.06,405.61" edges="-360817900#1">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_10"/>
+            <parkingAreaReroute id="pa_39"/>
+            <parkingAreaReroute id="pa_23"/>
+            <parkingAreaReroute id="pa_25"/>
+            <parkingAreaReroute id="pa_31"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_7" pos="197.17,217.71" edges="-46522220#2">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_14"/>
+            <parkingAreaReroute id="pa_12"/>
+            <parkingAreaReroute id="pa_13"/>
+            <parkingAreaReroute id="pa_32"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_8" pos="182.29,356.88" edges="-46522222">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_24"/>
+            <parkingAreaReroute id="pa_31"/>
+            <parkingAreaReroute id="pa_29"/>
+            <parkingAreaReroute id="pa_27"/>
+            <parkingAreaReroute id="pa_33"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rr_9" pos="35.86,310.15" edges="205611781">
+        <interval begin="0.00" end="100000.00">
+            <parkingAreaReroute id="pa_21"/>
+            <parkingAreaReroute id="pa_39"/>
+            <parkingAreaReroute id="pa_23"/>
+            <parkingAreaReroute id="pa_25"/>
+        </interval>
+    </rerouter>
+</additional>
