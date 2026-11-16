@@ -1,6 +1,6 @@
-# Gradeschool Area Protype
 
-Simulation window: 6:30 to 7:30 (3600 s).
+
+Simulation window: 6:15 to 7:15 (3600 s).
 Total parking spots: about 630.
 Student vehicle pool: about 1500, split across routes 3, 4, and 5.
 
@@ -152,4 +152,4 @@ Keep any other additional files already on the line.
 - added 250 more vehicles to dropoff
 - added 200 more vehicles to parking
 - added 50 more vehicles to parked_dropoff
-- added a surge of entries near halfway point for more realism
+- added a surge of entries near halfway point for more realism# gradeschool-parking-simulation-prototype
