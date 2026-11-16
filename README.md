@@ -1,6 +1,6 @@
 
 
-Simulation window: 6:15 to 7:15 (3600 s).
+Simulation window: 6:00 to 7:00 (3600 s).
 Total parking spots: about 630.
 Student vehicle pool: about 1500, split across routes 3, 4, and 5.
 
