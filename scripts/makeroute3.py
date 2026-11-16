@@ -25,9 +25,9 @@ OUT_DIR = os.path.join(BASE, "routes")
 OUT_FILE = os.path.join(OUT_DIR, "routes_3_dropoffs.rou.xml")
 
 random.seed(3)
-N_VEHICLES = 600
+N_VEHICLES = 400
 LAST_DEPART = 3300
-STOP_MIN, STOP_MAX = 60, 90
+STOP_MIN, STOP_MAX = 30, 60
 NEAR_SHARE = 0.9
 
 DROP_AREAS = ["pa_40", "pa_41", "pa_42", "pa_44", "pa_45"]
