@@ -25,7 +25,7 @@ OUT_DIR = os.path.join(BASE, "routes")
 OUT_FILE = os.path.join(OUT_DIR, "routes_4_parked_dropoffs.rou.xml")
 
 random.seed(4)
-N_VEHICLES = 500                     
+N_VEHICLES = 200                     
 LAST_DEPART = 3000                   # seconds
 STAY_MIN, STAY_MAX = 300, 900        # 5 to 15 minutes
 
