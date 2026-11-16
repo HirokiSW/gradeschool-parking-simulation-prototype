@@ -96,7 +96,7 @@ Behavior notes
 
 ### Route 3: dropoffs (makeroute3.py)
 - Output: routes/routes_3_dropoffs.rou.xml
-- 550 vehicles. Stop at one of pa_40 to pa_45 for 15 to 30 s, then exit.
+- 600 vehicles. Stop at one of pa_40 to pa_45 for 15 to 30 s, then exit.
 - Entries: 70% gate 2, 15% each for the other two.
 - 90% pick an area on a lane near their entry. The rest pick any reachable drop-off area. The pick is weighted by capacity.
 - Exits: 205611785 and 313786478#1, 50% each.
@@ -105,7 +105,7 @@ Behavior notes
 
 ### Route 4: parked dropoffs (makeroute4.py)
 - Output: routes/routes_4_parked_dropoffs.rou.xml
-- 150 vehicles. Park for 300 to 900 s, then exit.
+- 200 vehicles. Park for 300 to 900 s, then exit.
 - Entries: 70% gate 2, 15% each for the other two.
 - 75% pick a group preferred for their entry. Gate 2 prefers p1, p2/p3, p7. The p4/p5 side entry prefers p4/p5, p6, p7. The central side entry prefers central and p6.
 - The other 25% pick any group. The gym has a weight of 0.05.
@@ -138,18 +138,3 @@ In gradeschoolarea.sumocfg:
 <route-files value="routes/routes_1_school_bus.rou.xml,routes/routes_2_faculty.rou.xml,routes/routes_3_dropoffs.rou.xml,routes/routes_4_parked_dropoffs.rou.xml,routes/routes_5_parking.rou.xml,routes/routes_6_university_road.rou.xml,routes/routes_7_campus_exit.rou.xml"/>
 <additional-files value="additional/gradeschoolarea.add.xml,additional/rerouter.add.xml,additional/rerouter_faculty.add.xml,additional/rerouter_dropoff.add.xml"/>
 ```
-
-Keep any other additional files already on the line.
-
-## Rerouters
-
-- additional/rerouter.add.xml: general rerouters from makererouter.py. No `vTypes`, so they apply to every vehicle. They sit on the parking edges.
-- additional/rerouter_faculty.add.xml: `vTypes="faculty"`. Sends full faculty cars to general areas.
-- additional/rerouter_dropoff.add.xml: `vTypes="dropoff"`. Sends dropoff cars to other drop-off areas.
-
-## Updates
-
-- added 250 more vehicles to dropoff
-- added 200 more vehicles to parking
-- added 50 more vehicles to parked_dropoff
-- added a surge of entries near halfway point for more realism# gradeschool-parking-simulation-prototype
